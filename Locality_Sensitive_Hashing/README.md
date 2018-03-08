@@ -1,0 +1,1 @@
+Implemented Locality Sensitive Hashing on corpus donated by Paul Clough and Mark Stevenson (both from University of Sheffield). They designed this corpus to represent varying degrees of plagiarism and hoped that it will be a useful addition to the set of resources available for the evaluation of plagiarism detection systems.
